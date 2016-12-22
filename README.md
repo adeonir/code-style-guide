@@ -17,7 +17,7 @@ This is a live document, changes may occur at any time.
 1. [Comments](#comments)
 
 <a name="syntax"></a>
-### 1. Syntax
+## 1. Syntax
 
 Use soft-tabs with two spaces:
 
@@ -169,7 +169,7 @@ Do not use values starting with zero:
 ```
 
 <a name="declaration"></a>
-### 2. Declaration
+## 2. Declaration
 
 The declarations should be added in alphabetical order:
 
@@ -194,7 +194,7 @@ The declarations should be added in alphabetical order:
 ```
 
 <a name="class-name"></a>
-### 3. Class Name
+## 3. Class Name
 
 Keep class lowercase and use dashes to separate the classname.
 
@@ -241,7 +241,7 @@ Avoid giving too short names for class and always choose meaningful names that p
 ```
 
 <a name="performance"></a>
-### 4. Performance
+## 4. Performance
 
 Never use IDs:
 
@@ -272,7 +272,7 @@ input[type="text"] {
 ```
 
 <a name="comments"></a>
-### 5. Comments
+## 5. Comments
 
 Examples:
 
